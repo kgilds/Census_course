@@ -2,7 +2,9 @@
 title: "Homework 2"
 author: "Kevin Gilds"
 date: "Thursday, July 02, 2015"
-output: html_document
+output:
+  html_document:
+    fig_caption: yes
 ---
 
 ```{r global_options, include=FALSE}
@@ -40,5 +42,5 @@ county_choropleth(df_county_demographics, title= "Median Rent: American Counties
 
 ### Map
 
-![Median Rent](figs/unnamed-chunk-5-1.png)
+![Median Rent](figs/unnamed-chunk-5-1.png?raw=true)
 
