@@ -43,5 +43,7 @@ county_choropleth(df_county_demographics, title= "Median Rent: American Counties
 
 ### Map
 
-![Median Rent](figs/unnamed-chunk-5-1.png?raw=true)
+![Median Rent](https://github.com/kgilds/Census_course/blob/master/Figs/unnamed-chunk-5-1.png)
+
+
 
