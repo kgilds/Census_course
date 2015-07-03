@@ -5,6 +5,7 @@ date: "Thursday, July 02, 2015"
 output:
   html_document:
     fig_caption: yes
+    keep_md: yes
 ---
 
 ```{r global_options, include=FALSE}
