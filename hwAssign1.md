@@ -5,12 +5,18 @@ date: "Tuesday, June 30, 2015"
 output: html_document
 ---
 
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(fig.width=12, fig.height=8, fig.path='Figs/',
+                      echo=FALSE, warning=FALSE, message=FALSE)
+```
+
+
 ### Load Library
 
-```{r warning=FALSE}
+
+```{r}
+
 library(choroplethr)
-
-
 
 ```
 
